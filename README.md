@@ -12,6 +12,10 @@ This project demonstrates the implementation of a centralized security monitorin
 * **Collector**: Splunk Universal Forwarder (UF).
 * **Network**: Connected via Port **9997**.
 
+| SIEM Dashboard Overview | Universal Forwarder Configuration |
+| :--- | :--- |
+| ![Dashboard Overview](c4448e39-7f60-46fd-b111-1b6ac7a6f976.png) | ![UF Setup](SE-10.png) |
+
 ---
 
 ## 🚀 Implementation Steps
